@@ -1,0 +1,9 @@
+{
+    "name": "com.yamada.orotiyamadanogames.unitypacktemplate",
+    "displayName": "OrotiYamadanoGames.UnityPackTemplate",
+    "version": "0.0.1",
+    "unity": "2021.3",
+    "description": "Unityのパッケージ化ライブラリです。",
+    "author": "YamadaTaishi",
+    "dependencies": "{\"com.unity.render-pipelines.core\": \"12.1.8\"}"
+}

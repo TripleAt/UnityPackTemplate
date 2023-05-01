@@ -1,0 +1,4 @@
+
+# UnityPackTemplate
+
+Unityのパッケージ化ライブラリです。
