@@ -1,0 +1,3 @@
+# UnityPackTemplate
+
+UnityのパッケージのTemplateを作るだけ
